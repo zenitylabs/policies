@@ -61,4 +61,4 @@ Because we hold no personal data about you, there is nothing for us to export, c
 
 Changes to this policy will be published on this page and the date above updated.
 
-Questions about this policy, or about AgeStash: https://github.com/acaloiaro/passforios/issues
+Questions about this policy, or about AgeStash: https://code.adriano.fyi/me/agestash/issues
